@@ -1,0 +1,16 @@
+body {
+    background-color:rgb(234, 195, 207);
+    color: #555555;
+
+}
+
+table, tr, td {
+    background-color: rgb(243, 199, 205);
+
+
+}
+
+* {
+    font-family: Book antiqua, Aptos;
+
+}
